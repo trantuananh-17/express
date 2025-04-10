@@ -1,0 +1,43 @@
+[
+  {},
+  {
+    "name": "Test book",
+    "authorId": "1",
+    "theloai": "Tiểu thuyết",
+    "Năm xuất bản": 2002,
+    "numberPage": 10000,
+    "id": null
+  },
+  {
+    "id": 1,
+    "name": "Test book",
+    "authorId": 2,
+    "theloai": "Tiểu thuyết",
+    "Năm xuất bản": 2002,
+    "numberPage": 10000
+  },
+  {
+    "name": "Test book",
+    "authorId": "1",
+    "theloai": "Tiểu thuyết",
+    "Năm xuất bản": 2002,
+    "numberPage": 10000,
+    "id": 2
+  },
+  {
+    "name": "Test book",
+    "authorId": 1,
+    "theloai": "Tiểu thuyết",
+    "Năm xuất bản": 2002,
+    "numberPage": 10000,
+    "id": 3
+  },
+  {
+    "name": "Test book",
+    "authorId": 2,
+    "theloai": "Tiểu thuyết",
+    "Năm xuất bản": 2002,
+    "numberPage": 10000,
+    "id": 4
+  }
+]
